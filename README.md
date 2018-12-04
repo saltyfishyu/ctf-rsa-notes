@@ -10,6 +10,6 @@
   
   >ASIS FINAL 2017 - Handicraft RSA
 
-* Rabin Algorithm
+### Rabin Algorithm
 
   >JarvisOJ - hardRSA
