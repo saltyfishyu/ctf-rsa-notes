@@ -14,7 +14,7 @@ RSA(829467319, 48357)
 ```
 _stIwn_:!oAestN_rii.ra__}e_gt8nuae1nolg0iYf_2w{_un_CeoeeEhychST
 ```
-Step 1 : reverse cipher
+Step 1 : reverse the ciphertext
 ```
 TShcyhEeeoeC_nu_{w2_fYi0glon1eaun8tg_e}__ar.iir_NtseAo!:_nwIts_
 ```
