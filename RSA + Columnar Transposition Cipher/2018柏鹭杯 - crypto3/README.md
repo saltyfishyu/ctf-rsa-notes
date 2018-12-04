@@ -21,17 +21,29 @@ TShcyhEeeoeC_nu_{w2_fYi0glon1eaun8tg_e}__ar.iir_NtseAo!:_nwIts_
 Step 2 : separate the ciphertext into groups of five
 
 TShcy
+
 hEeeo
+
 eC_nu
+
 _{w2_
+
 fYi0g
+
 lon1e
+
 aun8t
+
 g_e}_
+
 _ar.i
+
 ir_Nt
+
 seAo!
+
 :_nwI
+
  ts_
  
 Then we got the flag:
