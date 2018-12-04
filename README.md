@@ -20,6 +20,6 @@
   
   >ISITDTU Quals 2018 - Simple RSA
 
-### RSA + Columnar Transposition Cipher
+### RSA + Caesar
 
   >2018柏鹭杯 - crypto3
