@@ -13,3 +13,9 @@
 ### Rabin Algorithm
 
   >JarvisOJ - hardRSA
+
+### Random prime
+
+  >2018柏鹭杯 - crypto1
+  
+  >ISITDTU Quals 2018 - Simple RSA
