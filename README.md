@@ -1,5 +1,5 @@
 # ctf-crypto-writeup
 
-## gmpy.next_prime() Examples
+### gmpy.next_prime() Examples
 
-### how to decrypt a message using exported RSA public key with PyCrypto?
+* how to decrypt a message using exported RSA public key with PyCrypto?
