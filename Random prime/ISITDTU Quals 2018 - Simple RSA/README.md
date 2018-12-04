@@ -7,7 +7,7 @@ ISITDTU{f6b2b7472273aacf803ecfe93607a914}
 
 
 
-#link : https://github.com/nevivurn/writeups/tree/master/2018-isitdtu/Simple RSA
+#link : https://github.com/nevivurn/writeups/tree/master/2018-isitdtu/Simple%20RSA
 
 This implementation of RSA is atypical in two important ways. First, it uses
 four (~251 bit) primes, not two. Second, only the first prime is selected
