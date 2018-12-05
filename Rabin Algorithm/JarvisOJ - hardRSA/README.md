@@ -1,5 +1,5 @@
 #openssl rsa -in pubkey.pem -pubin -text -modulus
-
+```
 Public-Key: (256 bit)
 
 Modulus:
@@ -23,7 +23,7 @@ MDowDQYJKoZIhvcNAQEBBQADKQAwJgIhAMJjauXD2OQ/+5erCQKPGqxsC/bNPXDr
 yigb/+l/vjDdAgEC
 
 -----END PUBLIC KEY-----
-
+```
 
 #n=87924348264132406875276140514499937145050893665602592992418171647042491658461
 
