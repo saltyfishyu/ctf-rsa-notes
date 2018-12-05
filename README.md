@@ -1,4 +1,4 @@
-# ctf-crypto-writeup
+# ctf-rsa-notes
 
 ### gmpy.next_prime() Examples
 
